@@ -3,14 +3,19 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aslan</h1>
-- 📫 How to reach me **westh4imer@gmail.com**
 
 <h2>📝 About Me</h2>
 <ul>
-  <li>🎓 Обучился по специальности <strong>Информационные системы</strong> (2018–2022).</li>
-  <li>📖 В данный момент прохожу курс по <strong>.NET разработке</strong> на платформе <strong>EPAM Learning</strong>.</li>
-  <li>💻 Активно изучаю технологии на <strong>Microsoft Learn</strong> для углубления профессиональных знаний.</li>
+  <li>🌍 I'm based in: Astana KZ.</li>
+  <li>🎓 Studied in the specialty <strong>Information systems</strong> (2018–2022).</li>
+  <li>📖 Currently taking a course on <strong>.NET development</strong> on the platform <strong>EPAM Learning</strong>.</li>
+  <li>💻 I actively study technologies on <strong>Microsoft Learn</strong> to deepen my professional knowledge.</li>
+  <li>📫 You can contact me at **westh4imer@gmail.com**</li>
 </ul>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### Socials
 
